@@ -63,6 +63,6 @@ Built with React 19, TypeScript, Vite 7, Tailwind CSS 3, and shadcn/ui (Radix pr
 UI text is in Simplified Chinese, matching the game's community language.
 
 **AI collaboration disclosure:** like its companion project
-[delta-audio-radar](https://github.com/), this project was developed interactively with an
+[delta-audio-radar](https://github.com/LDragon-x/delta-audio-radar), this project was developed interactively with an
 AI coding assistant (Kimi). The author directed all product decisions, data validation, and
 iterative debugging; generated code was reviewed and tested before acceptance.
